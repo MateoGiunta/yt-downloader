@@ -1,0 +1,7 @@
+Lib
+Scripts/*
+share/*
+Include/*
+dist/*
+pyvenv.cfg
+yt-dlp.spec
