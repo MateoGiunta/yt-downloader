@@ -3,5 +3,7 @@ Scripts/*
 share/*
 Include/*
 dist/*
+audios/*
+build/*
 pyvenv.cfg
 yt-dlp.spec
